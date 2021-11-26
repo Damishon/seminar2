@@ -1,5 +1,0 @@
-Create a program exercise1.py inside the seminar7 directory which counts the number of 
-n-length tuple in the text brown.txt. Save the tuples and their counts in the output.txt file. 
-Ignore a sentence if its length is less than n. Also find and print to console the maximum, 
-the minimum or the average count depending on the problem number  and the number n 
-found in the Progress board
